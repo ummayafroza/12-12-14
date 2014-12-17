@@ -1,0 +1,12 @@
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\bin\Debug\TicketSellingApp.exe.config
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\bin\Debug\TicketSellingApp.exe
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\bin\Debug\TicketSellingApp.pdb
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.csprojResolveAssemblyReference.cache
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.Form1.resources
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.Properties.Resources.resources
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.csproj.GenerateResource.Cache
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.exe
+H:\winfrom-1\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.pdb
+L:\TicketSellingApp\TicketSellingApp\bin\Debug\TicketSellingApp.exe.config
+L:\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.exe
+L:\TicketSellingApp\TicketSellingApp\obj\Debug\TicketSellingApp.pdb

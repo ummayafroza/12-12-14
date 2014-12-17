@@ -1,0 +1,15 @@
+F:\asp.net\saveNameApp\saveNameApp\bin\Debug\saveNameApp.exe.config
+F:\asp.net\saveNameApp\saveNameApp\bin\Debug\saveNameApp.exe
+F:\asp.net\saveNameApp\saveNameApp\bin\Debug\saveNameApp.pdb
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.csprojResolveAssemblyReference.cache
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.Form1.resources
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.Properties.Resources.resources
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.csproj.GenerateResource.Cache
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.exe
+F:\asp.net\saveNameApp\saveNameApp\obj\Debug\saveNameApp.pdb
+I:\saveNameApp\saveNameApp\bin\Debug\saveNameApp.exe.config
+I:\saveNameApp\saveNameApp\obj\Debug\saveNameApp.exe
+I:\saveNameApp\saveNameApp\obj\Debug\saveNameApp.pdb
+L:\saveNameApp\saveNameApp\bin\Debug\saveNameApp.exe.config
+L:\saveNameApp\saveNameApp\obj\Debug\saveNameApp.exe
+L:\saveNameApp\saveNameApp\obj\Debug\saveNameApp.pdb

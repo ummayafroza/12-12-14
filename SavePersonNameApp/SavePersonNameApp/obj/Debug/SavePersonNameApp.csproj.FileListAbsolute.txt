@@ -1,0 +1,9 @@
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\bin\Debug\SavePersonNameApp.exe.config
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\bin\Debug\SavePersonNameApp.exe
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\bin\Debug\SavePersonNameApp.pdb
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.csprojResolveAssemblyReference.cache
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.Form1.resources
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.Properties.Resources.resources
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.csproj.GenerateResource.Cache
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.exe
+H:\winfrom-1\SavePersonNameApp\SavePersonNameApp\obj\Debug\SavePersonNameApp.pdb
